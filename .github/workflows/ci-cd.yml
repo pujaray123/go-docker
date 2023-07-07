@@ -1,4 +1,4 @@
-name: cicd for python
+name: cicd for Go to docker
 
 on:
   push:
